@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2022-05-10T10:10:46.598Z",
-    "end": "2022-05-10T10:11:11.435Z",
-    "duration": 24837
+    "start": "2022-06-04T13:35:27.181Z",
+    "end": "2022-06-04T13:35:50.610Z",
+    "duration": 23429
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook in \"{root}\"",
       "fullTitle": "\"before all\" hook in \"{root}\"",
-      "duration": 24833,
+      "duration": 23427,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 5000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules/mocha-jsdom/index.js:70:7)\n    at /mnt/c/Users/Mohammed/Moringa/phase-1-javascript-variables-lab/node_modules/jsdom/lib/jsdom.js:312:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)",
